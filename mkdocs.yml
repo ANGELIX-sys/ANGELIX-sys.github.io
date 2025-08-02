@@ -1,0 +1,7 @@
+site_name: ANGELIX
+site_url: https://angelix-sys.github.io/
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: cyan
