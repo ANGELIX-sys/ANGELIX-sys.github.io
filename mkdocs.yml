@@ -5,3 +5,7 @@ theme:
   palette:
     scheme: slate
     primary: cyan
+markdown_extensions:
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
