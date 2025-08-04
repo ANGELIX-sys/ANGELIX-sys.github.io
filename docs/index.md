@@ -1,25 +1,26 @@
 # **ANGELIX**
 [*ˈænʤɛˌlɪks*](https://ipa-reader.com/?text=%C3%A6n%CA%A4%C9%9B%CB%8Cl%C9%AAks) (IPA)  
-*kulupu Anjelisu* (TOK)
-
+*kulupu Anjelisu* (TOK)  
 \[Cl]  
 hey everyone, welcome to our system directory!  
-we're very glad to have you here!
-
-# *About "Me"*
+we're very glad to have you here!  
+# About "Me"
 \[C]  
 hi  
 were ANGELIX, or Angel for short  
 were a system of like 12+  
-also were transfem lmao. she/her collectively
-
+also were transfem lmao. she/her collectively  
 # "Why"????????
 so, why are you here  
 well youre probably here because you want to know about our quirky headmates  
-
 # teh matez
 \[A]
-herez a list of all of us :333
+herez a (nyat finish) list of all of us :333  
+## cassidian
+[cassi](./headmates/cassidian/cassi.md)  
+[claire](./headmates/cassidian/claire.md)  
+[milli](./headmates/cassidian/milli.md)  
+[audie](./headmates/cassidian/audie.md)
 
-[cass](./headmates/cass.md)  
 [alice](./headmates/alice.md)  
+[emily](./headmates/emily.md)  
