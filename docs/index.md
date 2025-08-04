@@ -15,6 +15,11 @@ also were transfem lmao. she/her collectively
 
 # "Why"????????
 so, why are you here  
-well youre probably here because you want to  
-know about our quirky headmates  
-we will work on this "soom:tm:"
+well youre probably here because you want to know about our quirky headmates  
+
+# teh matez
+\[A]
+herez a list of all of us :333
+
+[cass](./headmates/cass.md)  
+[alice](./headmates/alice.md)  
